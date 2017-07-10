@@ -1,0 +1,337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TargetIMC Ads CPT & Taxonomies\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-11 10:42+0000\n"
+"PO-Revision-Date: 2017-05-11 10:43+0000\n"
+"Last-Translator: targetimc <max@targetimc.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Description of the plugin
+msgid ""
+"This plugin registers 'ads' post type and its taxonomies. You can use "
+"<strong>[ads-shortcode]</strong> in your text widgets or pages to display "
+"ads. *** If ACF is active this plugin will deactivate it and install ACF Pro."
+" ***"
+msgstr ""
+"Este plugin registra el custom post type y las taxonomías de anuncios. "
+"Puedes usar <strong>[ads-shortcode]</strong> para mostrar los anuncios. *** "
+"Si está activo el plugin ACF, se desactivará y se instalará el ACF Pro "
+"automáticamente. ***"
+
+#: tgt-ads-cpt-fields.php:11
+msgid "Ads CPT"
+msgstr "Anuncios"
+
+#: tgt-ads-cpt-fields.php:15
+msgid "Ad Image"
+msgstr "Imagen del anuncio"
+
+#: tgt-ads-cpt-fields.php:39
+msgid "Short Description"
+msgstr "Descripción corta"
+
+#: tgt-ads-cpt-fields.php:58
+msgid "Description"
+msgstr "Descripción"
+
+#: tgt-ads-cpt-fields.php:77
+msgid "Normal Price"
+msgstr "Precio Normal"
+
+#: tgt-ads-cpt-fields.php:98
+msgid "Sale Price"
+msgstr "Precio Oferta"
+
+#: tgt-ads-cpt-fields.php:119
+msgid "Sale Expires On"
+msgstr "Caduca el"
+
+#: tgt-ads-cpt-fields.php:136
+msgid "Center"
+msgstr "Centro"
+
+#: tgt-ads-cpt-fields.php:155
+msgid "Center URL"
+msgstr "URL del centro"
+
+#: tgt-ads-cpt-fields.php:171
+msgid "Localization"
+msgstr "Localización"
+
+#: tgt-ads-cpt-fields.php:189 templates/single-ads.php:78
+msgid "Social Networks"
+msgstr "Redes Sociales"
+
+#: tgt-ads-cpt-fields.php:208
+msgid "Facebook"
+msgstr "Facebook"
+
+#: tgt-ads-cpt-fields.php:224
+msgid "Twitter"
+msgstr "Twitter"
+
+#: tgt-ads-cpt-fields.php:240
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: tgt_ads_cpt.php:49
+msgctxt "Post Type General Name"
+msgid "Ads"
+msgstr "Anuncios"
+
+#: tgt_ads_cpt.php:50
+msgctxt "Post Type Singular Name"
+msgid "Ad"
+msgstr "Anuncio"
+
+#: tgt_ads_cpt.php:51 tgt_ads_cpt.php:52
+msgid "Ads"
+msgstr "Anuncios"
+
+#: tgt_ads_cpt.php:53
+msgid "Item Archives"
+msgstr ""
+"Archivos del ítem\n"
+"\n"
+
+#: tgt_ads_cpt.php:54
+msgid "Item Attributes"
+msgstr "Atributos del ítem"
+
+#: tgt_ads_cpt.php:55 tgt_ads_cpt.php:112 tgt_ads_cpt.php:152
+msgid "Parent Item:"
+msgstr ""
+"Item \n"
+"Padre"
+
+#: tgt_ads_cpt.php:56 tgt_ads_cpt.php:110 tgt_ads_cpt.php:150
+msgid "All Items"
+msgstr "Todos los ítems"
+
+#: tgt_ads_cpt.php:57 tgt_ads_cpt.php:114 tgt_ads_cpt.php:154
+msgid "Add New Item"
+msgstr "Añadir nuevo ítem"
+
+#: tgt_ads_cpt.php:58
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: tgt_ads_cpt.php:59
+msgid "New Item"
+msgstr "Nuevo ítem"
+
+#: tgt_ads_cpt.php:60 tgt_ads_cpt.php:115 tgt_ads_cpt.php:155
+msgid "Edit Item"
+msgstr "Editar ítem"
+
+#: tgt_ads_cpt.php:61 tgt_ads_cpt.php:116 tgt_ads_cpt.php:156
+msgid "Update Item"
+msgstr "Actualizar ítem"
+
+#: tgt_ads_cpt.php:62 tgt_ads_cpt.php:117 tgt_ads_cpt.php:157
+msgid "View Item"
+msgstr "Ver ítem"
+
+#: tgt_ads_cpt.php:63
+msgid "View Items"
+msgstr "Ver ítems"
+
+#: tgt_ads_cpt.php:64
+msgid "Search Item"
+msgstr "Buscar ítem"
+
+#: tgt_ads_cpt.php:65
+msgid "Not found"
+msgstr "No encontrado"
+
+#: tgt_ads_cpt.php:66
+msgid "Not found in Trash"
+msgstr "No encontrado en la papelera"
+
+#: tgt_ads_cpt.php:67
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: tgt_ads_cpt.php:68
+msgid "Set featured image"
+msgstr "Establecer imagen destacada"
+
+#: tgt_ads_cpt.php:69
+msgid "Remove featured image"
+msgstr "Remover imagen destacada"
+
+#: tgt_ads_cpt.php:70
+msgid "Use as featured image"
+msgstr "Usar como imagen destacada"
+
+#: tgt_ads_cpt.php:71
+msgid "Insert into item"
+msgstr "Insertar en el ítem"
+
+#: tgt_ads_cpt.php:72
+msgid "Uploaded to this item"
+msgstr "Subir a este ítem"
+
+#: tgt_ads_cpt.php:73 tgt_ads_cpt.php:125 tgt_ads_cpt.php:165
+msgid "Items list"
+msgstr "Lista de ítems"
+
+#: tgt_ads_cpt.php:74 tgt_ads_cpt.php:126 tgt_ads_cpt.php:166
+msgid "Items list navigation"
+msgstr "Navegación en la lista de ítems"
+
+#: tgt_ads_cpt.php:75
+msgid "Filter items list"
+msgstr "Filtrar lista de ítems"
+
+#: tgt_ads_cpt.php:78
+msgid "Ad"
+msgstr "Anuncio"
+
+#: tgt_ads_cpt.php:79
+msgid "Advertising custom post type"
+msgstr "Custom Post Type de Anuncios"
+
+#: tgt_ads_cpt.php:83 tgt_ads_cpt.php:313 templates/archive-ads.php:94
+#: templates/single-ads.php:138
+msgid "ads"
+msgstr "anuncios"
+
+#: tgt_ads_cpt.php:107
+msgctxt "Taxonomy General Name"
+msgid "Types of Ads"
+msgstr "Tipos de Anuncio"
+
+#: tgt_ads_cpt.php:108
+msgctxt "Taxonomy Singular Name"
+msgid "Type of Ad"
+msgstr "Tipo de Anuncio"
+
+#: tgt_ads_cpt.php:109
+msgid "Type of Ad"
+msgstr "Tipo de anuncio"
+
+#: tgt_ads_cpt.php:111 tgt_ads_cpt.php:151
+msgid "Parent Item"
+msgstr "Ítem padre"
+
+#: tgt_ads_cpt.php:113 tgt_ads_cpt.php:153
+msgid "New Item Name"
+msgstr "Nombre del nuevo ítem"
+
+#: tgt_ads_cpt.php:118 tgt_ads_cpt.php:158
+msgid "Separate items with commas"
+msgstr "Separar ítems con comas"
+
+#: tgt_ads_cpt.php:119 tgt_ads_cpt.php:159
+msgid "Add or remove items"
+msgstr "Añadir o borrar ítems"
+
+#: tgt_ads_cpt.php:120 tgt_ads_cpt.php:160
+msgid "Choose from the most used"
+msgstr "Elegir entre los más utilizados"
+
+#: tgt_ads_cpt.php:121 tgt_ads_cpt.php:161
+msgid "Popular Items"
+msgstr "Ítems populares"
+
+#: tgt_ads_cpt.php:122 tgt_ads_cpt.php:162
+msgid "Search Items"
+msgstr "Buscar ítems"
+
+#: tgt_ads_cpt.php:123 tgt_ads_cpt.php:163
+msgid "Not Found"
+msgstr "No encontrado"
+
+#: tgt_ads_cpt.php:124 tgt_ads_cpt.php:164
+msgid "No items"
+msgstr "Ho hay ítems"
+
+#: tgt_ads_cpt.php:130
+msgid "ad_type"
+msgstr "tipo_anuncio"
+
+#: tgt_ads_cpt.php:147
+msgctxt "Taxonomy General Name"
+msgid "Sectors"
+msgstr "Sectores"
+
+#: tgt_ads_cpt.php:148
+msgctxt "Taxonomy Singular Name"
+msgid "Sector"
+msgstr "Sector"
+
+#: tgt_ads_cpt.php:149
+msgid "Sectors"
+msgstr "Sectores"
+
+#: tgt_ads_cpt.php:170
+msgid "sector"
+msgstr "sector"
+
+#: tgt_ads_cpt.php:266 templates/archive-ads.php:32
+msgid "All"
+msgstr "Todos"
+
+#: tgt_ads_cpt.php:313
+msgid "View all Ads"
+msgstr "Ver todos los anuncios"
+
+#: templates/archive-ads.php:94 templates/single-ads.php:138
+msgid "Back to Full Ads"
+msgstr "Volver a todos los anuncios"
+
+#: templates/single-ads.php:62
+msgid "Expires<br/>on"
+msgstr "Caduca<br/>el día"
+
+#: templates/single-ads.php:79
+msgid "Share<br/>with<br/>friends"
+msgstr "Comparte<br/>con<br/>amigos"
+
+#: templates/single-ads.php:87 templates/single-ads.php:91
+msgid "€"
+msgstr "€"
+
+#: templates/single-ads.php:91
+msgid "Before:"
+msgstr "Antes:"
+
+#: templates/single-ads.php:105
+msgid "Center:"
+msgstr "Centro:"
+
+#: templates/single-ads.php:112
+msgid "Sector: "
+msgstr "Sector: "
+
+#: templates/single-ads.php:115
+msgid "Ad Type: "
+msgstr "Tipo de anuncio: "
+
+#: templates/single-ads.php:126
+msgid "Description:"
+msgstr "Descripción:"
+
+#: templates/single-ads.php:131
+msgid "Where are we"
+msgstr "Dónde estamos"
+
+#. Name of the plugin
+msgid "TargetIMC Ads CPT & Taxonomies"
+msgstr "TargetIMC CPT y taxonomías de anuncios"
+
+#. Author URI of the plugin
+msgid "https://targetimc.com/"
+msgstr "https://targetimc.com/"
+
+#. Author of the plugin
+msgid "TargetIMC"
+msgstr "TargetIMC"

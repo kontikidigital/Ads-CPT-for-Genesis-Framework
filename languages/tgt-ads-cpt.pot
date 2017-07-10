@@ -1,0 +1,330 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-11 10:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: tgt-ads-cpt-fields.php:11
+msgid "Ads CPT"
+msgstr ""
+
+#: tgt-ads-cpt-fields.php:15
+msgid "Ad Image"
+msgstr ""
+
+#: tgt-ads-cpt-fields.php:39
+msgid "Short Description"
+msgstr ""
+
+#: tgt-ads-cpt-fields.php:58
+msgid "Description"
+msgstr ""
+
+#: tgt-ads-cpt-fields.php:77
+msgid "Normal Price"
+msgstr ""
+
+#: tgt-ads-cpt-fields.php:98
+msgid "Sale Price"
+msgstr ""
+
+#: tgt-ads-cpt-fields.php:119
+msgid "Sale Expires On"
+msgstr ""
+
+#: tgt-ads-cpt-fields.php:136
+msgid "Center"
+msgstr ""
+
+#: tgt-ads-cpt-fields.php:155
+msgid "Center URL"
+msgstr ""
+
+#: tgt-ads-cpt-fields.php:171
+msgid "Localization"
+msgstr ""
+
+#: tgt-ads-cpt-fields.php:189 templates/single-ads.php:78
+msgid "Social Networks"
+msgstr ""
+
+#: tgt-ads-cpt-fields.php:208
+msgid "Facebook"
+msgstr ""
+
+#: tgt-ads-cpt-fields.php:224
+msgid "Twitter"
+msgstr ""
+
+#: tgt-ads-cpt-fields.php:240
+msgid "E-Mail"
+msgstr ""
+
+#: tgt_ads_cpt.php:49
+msgctxt "Post Type General Name"
+msgid "Ads"
+msgstr ""
+
+#: tgt_ads_cpt.php:50
+msgctxt "Post Type Singular Name"
+msgid "Ad"
+msgstr ""
+
+#: tgt_ads_cpt.php:51 tgt_ads_cpt.php:52
+msgid "Ads"
+msgstr ""
+
+#: tgt_ads_cpt.php:53
+msgid "Item Archives"
+msgstr ""
+
+#: tgt_ads_cpt.php:54
+msgid "Item Attributes"
+msgstr ""
+
+#: tgt_ads_cpt.php:55 tgt_ads_cpt.php:112 tgt_ads_cpt.php:152
+msgid "Parent Item:"
+msgstr ""
+
+#: tgt_ads_cpt.php:56 tgt_ads_cpt.php:110 tgt_ads_cpt.php:150
+msgid "All Items"
+msgstr ""
+
+#: tgt_ads_cpt.php:57 tgt_ads_cpt.php:114 tgt_ads_cpt.php:154
+msgid "Add New Item"
+msgstr ""
+
+#: tgt_ads_cpt.php:58
+msgid "Add New"
+msgstr ""
+
+#: tgt_ads_cpt.php:59
+msgid "New Item"
+msgstr ""
+
+#: tgt_ads_cpt.php:60 tgt_ads_cpt.php:115 tgt_ads_cpt.php:155
+msgid "Edit Item"
+msgstr ""
+
+#: tgt_ads_cpt.php:61 tgt_ads_cpt.php:116 tgt_ads_cpt.php:156
+msgid "Update Item"
+msgstr ""
+
+#: tgt_ads_cpt.php:62 tgt_ads_cpt.php:117 tgt_ads_cpt.php:157
+msgid "View Item"
+msgstr ""
+
+#: tgt_ads_cpt.php:63
+msgid "View Items"
+msgstr ""
+
+#: tgt_ads_cpt.php:64
+msgid "Search Item"
+msgstr ""
+
+#: tgt_ads_cpt.php:65
+msgid "Not found"
+msgstr ""
+
+#: tgt_ads_cpt.php:66
+msgid "Not found in Trash"
+msgstr ""
+
+#: tgt_ads_cpt.php:67
+msgid "Featured Image"
+msgstr ""
+
+#: tgt_ads_cpt.php:68
+msgid "Set featured image"
+msgstr ""
+
+#: tgt_ads_cpt.php:69
+msgid "Remove featured image"
+msgstr ""
+
+#: tgt_ads_cpt.php:70
+msgid "Use as featured image"
+msgstr ""
+
+#: tgt_ads_cpt.php:71
+msgid "Insert into item"
+msgstr ""
+
+#: tgt_ads_cpt.php:72
+msgid "Uploaded to this item"
+msgstr ""
+
+#: tgt_ads_cpt.php:73 tgt_ads_cpt.php:125 tgt_ads_cpt.php:165
+msgid "Items list"
+msgstr ""
+
+#: tgt_ads_cpt.php:74 tgt_ads_cpt.php:126 tgt_ads_cpt.php:166
+msgid "Items list navigation"
+msgstr ""
+
+#: tgt_ads_cpt.php:75
+msgid "Filter items list"
+msgstr ""
+
+#: tgt_ads_cpt.php:78
+msgid "Ad"
+msgstr ""
+
+#: tgt_ads_cpt.php:79
+msgid "Advertising custom post type"
+msgstr ""
+
+#: tgt_ads_cpt.php:83 tgt_ads_cpt.php:313 templates/archive-ads.php:94
+#: templates/single-ads.php:138
+msgid "ads"
+msgstr ""
+
+#: tgt_ads_cpt.php:107
+msgctxt "Taxonomy General Name"
+msgid "Types of Ads"
+msgstr ""
+
+#: tgt_ads_cpt.php:108
+msgctxt "Taxonomy Singular Name"
+msgid "Type of Ad"
+msgstr ""
+
+#: tgt_ads_cpt.php:109
+msgid "Type of Ad"
+msgstr ""
+
+#: tgt_ads_cpt.php:111 tgt_ads_cpt.php:151
+msgid "Parent Item"
+msgstr ""
+
+#: tgt_ads_cpt.php:113 tgt_ads_cpt.php:153
+msgid "New Item Name"
+msgstr ""
+
+#: tgt_ads_cpt.php:118 tgt_ads_cpt.php:158
+msgid "Separate items with commas"
+msgstr ""
+
+#: tgt_ads_cpt.php:119 tgt_ads_cpt.php:159
+msgid "Add or remove items"
+msgstr ""
+
+#: tgt_ads_cpt.php:120 tgt_ads_cpt.php:160
+msgid "Choose from the most used"
+msgstr ""
+
+#: tgt_ads_cpt.php:121 tgt_ads_cpt.php:161
+msgid "Popular Items"
+msgstr ""
+
+#: tgt_ads_cpt.php:122 tgt_ads_cpt.php:162
+msgid "Search Items"
+msgstr ""
+
+#: tgt_ads_cpt.php:123 tgt_ads_cpt.php:163
+msgid "Not Found"
+msgstr ""
+
+#: tgt_ads_cpt.php:124 tgt_ads_cpt.php:164
+msgid "No items"
+msgstr ""
+
+#: tgt_ads_cpt.php:130
+msgid "ad_type"
+msgstr ""
+
+#: tgt_ads_cpt.php:147
+msgctxt "Taxonomy General Name"
+msgid "Sectors"
+msgstr ""
+
+#: tgt_ads_cpt.php:148
+msgctxt "Taxonomy Singular Name"
+msgid "Sector"
+msgstr ""
+
+#: tgt_ads_cpt.php:149
+msgid "Sectors"
+msgstr ""
+
+#: tgt_ads_cpt.php:170
+msgid "sector"
+msgstr ""
+
+#: tgt_ads_cpt.php:266 templates/archive-ads.php:32
+msgid "All"
+msgstr ""
+
+#: tgt_ads_cpt.php:313
+msgid "View all Ads"
+msgstr ""
+
+#: templates/archive-ads.php:94 templates/single-ads.php:138
+msgid "Back to Full Ads"
+msgstr ""
+
+#: templates/single-ads.php:62
+msgid "Expires<br/>on"
+msgstr ""
+
+#: templates/single-ads.php:79
+msgid "Share<br/>with<br/>friends"
+msgstr ""
+
+#: templates/single-ads.php:87 templates/single-ads.php:91
+msgid "€"
+msgstr ""
+
+#: templates/single-ads.php:91
+msgid "Before:"
+msgstr ""
+
+#: templates/single-ads.php:105
+msgid "Center:"
+msgstr ""
+
+#: templates/single-ads.php:112
+msgid "Sector: "
+msgstr ""
+
+#: templates/single-ads.php:115
+msgid "Ad Type: "
+msgstr ""
+
+#: templates/single-ads.php:126
+msgid "Description:"
+msgstr ""
+
+#: templates/single-ads.php:131
+msgid "Where are we"
+msgstr ""
+
+#. Name of the plugin
+msgid "TargetIMC Ads CPT & Taxonomies"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin registers 'ads' post type and its taxonomies. You can use "
+"<strong>[ads-shortcode]</strong> in your text widgets or pages to display "
+"ads. *** If ACF is active this plugin will deactivate it and install ACF Pro."
+" ***"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://targetimc.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "TargetIMC"
+msgstr ""
